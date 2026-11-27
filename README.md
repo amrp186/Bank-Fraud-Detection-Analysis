@@ -25,7 +25,7 @@ Banks lose money to fraud, and also lose time chasing alerts that turn out to be
 3. Is the monitoring system catching fraud, and at what cost in false alerts?
 4. Are high-value transactions crossing approval thresholds?
 
-[📄 View BRD](./BRD_Bank_Fraud_Detection.pdf) | [📊 Dashboard Screenshots](./Screenshots)
+📄 Full requirements are documented in the [Business Requirements Document](<./BRD – Bank Fraud Detection.pdf>). | [📊 Dashboard Screenshots](./Screenshots)
 
 ---
 
